@@ -1,4 +1,4 @@
-Project 2 - Machine Learning
+Project 3 - Machine Learning
 ==========
 
 Run
